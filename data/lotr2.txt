@@ -22,7 +22,7 @@ Thror  was  referred  to,  Thrain  I,  a  fugitive  from  Moria,  who  first  di
 Lonely Mountain, Erebor, and ruled there for a while, before his people moved on 
 to the remoter mountains of the North. 
 
-Chapter I <br>
+Chapter I 
 
 An Unexpected Party
 
@@ -736,9 +736,9 @@ Bilbo went  to  sleep with  that  in  his  ears,  and  it  gave  him  very  unco
 dreams. It was long after the break of day, when he woke up. 
 
 Chapter 2
-<br>
+
 Roast Mutton 
-<br>
+
  
 Up jumped Bilbo, and putting on his dressing-gown went into the dining-room. 
 There he saw nobody, but all the signs of a large and hurried breakfast. There was 
@@ -1165,10 +1165,10 @@ fire  in  the  distance  and  made  for  it.  So  now  you  know.  Please  be  m
 next time, or we shall never get anywhere!" 
 "Thank you!" said Thorin. 
 
-<h4>Chapter 3 </h4> <br>
-<br>
+Chapter 3  
+
 A Short Rest 
-<br>
+
  
 They  did  not  sing  or  tell  stories  that  day,  even  though  the weather  improved; 
 nor the next day, nor the day after. They had begun to feel that danger was not far 
@@ -1418,7 +1418,7 @@ rode away amid songs of farewell and good speed, with their hearts ready for mor
 adventure,  and  with  a  knowledge  of  the  road  they  must  follow  over  the  Misty 
 Mountains to the land beyond. 
 
-<h4>Chapter 4 </h4> <br>
+Chapter 4  
 
 Over Hill and Under Hill 
 
@@ -1746,7 +1746,7 @@ behind in the dark. He shouted and fell; and the hobbit rolled off his shoulders
 the blackness, bumped his head on hard rock, and remembered nothing more. 
  
 
-<h4>Chapter 5 </h4> <br>
+Chapter 5  
 
 Riddles in the Dark 
 
@@ -2351,7 +2351,7 @@ shadow of  the  trees,  running quick and quiet, and keeping out of  the sun; so
 they went back grumbling and cursing to guard the door. Bilbo had escaped. 
  
 
-<h4>Chapter 6 </h4> <br>
+Chapter 6  
 
 Out of the Frying-Pan into the Fire 
 
@@ -2887,7 +2887,7 @@ house and wandered in his sleep into all his different rooms looking for somethi
 that he could not find nor remember what it looked like. 
  
 
-<h4>Chapter 7 </h4> <br>
+Chapter 7 
 
 Queer Lodgings 
 
@@ -3597,7 +3597,7 @@ share, and turned from the light that lay on the lands outside and plunged into 
 forest.  
  
 
-<h4>Chapter 8 </h4> <br>
+Chapter 8  
 
 Flies and Spiders 
 
@@ -4380,7 +4380,7 @@ belongs  to  the  next  chapter  and  the  beginning  of  another  adventure  in
 hobbit again showed his usefulness. 
  
 
-<h4>Chapter 9 </h4> <br> <br>
+Chapter 9   
 
 Barrels Out of Bond 
 
@@ -4837,7 +4837,7 @@ They  had  escaped  the  dungeons  of  the  king  and  were  through  the wood, 
 whether alive or dead still remains to be seen. 
  
 
-<h4>Chapter 10</h4> <br> 
+Chapter 10  
 
 A Warm Welcome 
 
@@ -5149,7 +5149,7 @@ The  white  oars  dipped  and  splashed,  and  off  they  went  north  up  the  
 last stage of their long journey. The only person thoroughly unhappy was Bilbo. 
  
 
-<h4>Chapter 11</h4> <br> 
+Chapter 11  
 
 On the Doorstep 
 
@@ -5381,7 +5381,7 @@ darkness  in  which  nothing  could  be  seen  lay  before  their  eyes  mouth  
 and down. 
  
 
-<h4>Chapter 12</h4> <br> 
+Chapter 12  
 
 Inside Information 
 
@@ -5933,7 +5933,7 @@ me and remember who is the real King under the Mountain!"
 He rose in fire and went away south towards the Running River.  
  
 
-<h4>Chapter 13</h4> <br> 
+Chapter 13  
 
 Not at Home 
 
@@ -6240,7 +6240,7 @@ South  there  was  no  sign  of  the  dragon,  but  there  was  a  gathering  of
 birds. At  that  they gazed and wondered; but they were no nearer understanding it, 
 when the first cold stars came out. 
 
-<h4>Chapter 14</h4> <br> 
+Chapter 14  
 
 Fire and Water 
 
@@ -6488,7 +6488,7 @@ array,  got  ready  to march  north  to  the Mountain.  It  was  thus  that  in 
 from the ruin of the town the head of their host passed the rock-gates at the end of 
 the lake and came into the desolate lands. 
 
-<h4>Chapter 15</h4> <br> 
+Chapter 15  
 
 The Gathering of the Clouds 
 
@@ -6774,7 +6774,7 @@ enough of the Mountain, and being besieged inside it was not at all to his taste
 "The whole place still stinks of dragon," he grumbled to himself, "and it makes 
 me sick. And cram is beginning simply to stick in my throat." 
 
-<h4>Chapter 16</h4> <br> 
+Chapter 16  
 
 A Thief in the Night 
 
@@ -6943,7 +6943,7 @@ corner,  without  listening  to  old  dwarfs  thanks  (which  he  felt  he  had 
 earned).  He  was  soon  fast  asleep  forgetting  all  his  worries  till  the  morning.  As 
 matter of fact he was dreaming of eggs and bacon. 
 
-<h4>Chapter 17</h4> <br> 
+Chapter 17  
 
 The Clouds Burst 
 
@@ -7255,7 +7255,7 @@ could be seen except from the southern shoulders of the Mountain.
 "The Eagles!" cried Bilbo once more, but at that moment a stone hurtling from 
 above smote heavily on his helm, and he fell with a crash and knew no more. 
 
-<h4>Chapter 18</h4> <br> 
+Chapter 18  
 
 The Return Journey 
 
@@ -7479,7 +7479,7 @@ and he  turned his back on his adventure. The Tookish part was getting very tire
 and  the  Baggins  was  daily  getting  stronger.  "I  wish  now  only  to  be  in  my  own 
 arm-chair!" he said. 
 
-<h4>Chapter 19</h4> <br> 
+Chapter 19  
 
 The Last Stage 
 
@@ -9485,7 +9485,7 @@ see him again for a long time.
  
  
 
-<h4>Chapter 2.</h4> <br> The Shadow of the Past 
+Chapter 2.  The Shadow of the Past 
 
  
  
@@ -12220,7 +12220,7 @@ noise of thunder.
  
  
 
-<h4>Chapter 6.</h4> <br> The Old Forest 
+Chapter 6.  The Old Forest 
 
  
  
@@ -14387,7 +14387,7 @@ even old Butterbur's fat face of concealing dark designs.
  
  
 
-<h4>Chapter 10</h4> <br>. Strider 
+Chapter 10 . Strider 
 
  
  
@@ -26056,7 +26056,7 @@ Mordor or to Isengard; but the smoke of  the burning rose high to heaven and
 was seen by many watchful eyes.  
  
 
-<h4>Chapter 4.</h4> <br> Treebeard 
+Chapter 4.  Treebeard 
 
  
  
@@ -33492,7 +33492,7 @@ Yellow Face goes away. Then we can go quickly. Soft  and quick as shadows
 we 
 must be!' 
 
-<h4>Chapter 4.</h4> <br> Of Herbs and Stewed Rabbit 
+Chapter 4.  Of Herbs and Stewed Rabbit 
 
  
  
